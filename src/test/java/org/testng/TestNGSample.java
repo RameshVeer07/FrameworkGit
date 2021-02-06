@@ -21,7 +21,7 @@ public class TestNGSample {
 
 	}
 
-	@Test(priority=1,enabled=true)
+	@Test
 	private void tc1() {
 		WebElement mail = driver.findElement(By.id("email"));
 		mail.sendKeys("Ramesh");
@@ -45,10 +45,6 @@ public class TestNGSample {
 
 	}
 
-	@AfterClass
-	private void quitBrowser() {
-		driver.quit();
-
-	}
+	
 
 }
