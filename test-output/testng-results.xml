@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="1" total="7" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="10395" started-at="2020-12-09T17:58:20Z" finished-at="2020-12-09T17:58:30Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="10395" started-at="2020-12-09T17:58:20Z" finished-at="2020-12-09T17:58:30Z">
+      <class name="org.testng.Suite">
+        <test-method status="PASS" signature="tc4()[pri:0, instance:org.testng.Suite@275710fc]" name="tc4" duration-ms="0" started-at="2020-12-09T17:58:20Z" finished-at="2020-12-09T17:58:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc4 -->
+      </class> <!-- org.testng.Suite -->
+      <class name="org.testng.TestNGSample">
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:org.testng.TestNGSample@525f1e4e]" name="launchBrowser" is-config="true" duration-ms="8814" started-at="2020-12-09T17:58:20Z" finished-at="2020-12-09T17:58:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="tc1()[pri:1, instance:org.testng.TestNGSample@525f1e4e]" name="tc1" duration-ms="652" started-at="2020-12-09T17:58:29Z" finished-at="2020-12-09T17:58:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc1 -->
+        <test-method status="PASS" signature="tc2()[pri:7, instance:org.testng.TestNGSample@525f1e4e]" name="tc2" duration-ms="0" started-at="2020-12-09T17:58:29Z" finished-at="2020-12-09T17:58:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc2 -->
+        <test-method status="PASS" signature="tc2()[pri:7, instance:org.testng.TestNGSample@525f1e4e]" name="tc2" duration-ms="0" started-at="2020-12-09T17:58:29Z" finished-at="2020-12-09T17:58:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc2 -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:org.testng.TestNGSample@525f1e4e]" name="quitBrowser" is-config="true" duration-ms="820" started-at="2020-12-09T17:58:29Z" finished-at="2020-12-09T17:58:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+        <test-method status="PASS" signature="tc2()[pri:7, instance:org.testng.TestNGSample@525f1e4e]" name="tc2" duration-ms="0" started-at="2020-12-09T17:58:29Z" finished-at="2020-12-09T17:58:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc2 -->
+      </class> <!-- org.testng.TestNGSample -->
+      <class name="org.testng.Testing">
+        <test-method status="PASS" signature="tc6()[pri:0, instance:org.testng.Testing@400cff1a]" name="tc6" duration-ms="31" started-at="2020-12-09T17:58:20Z" finished-at="2020-12-09T17:58:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc6 -->
+      </class> <!-- org.testng.Testing -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
