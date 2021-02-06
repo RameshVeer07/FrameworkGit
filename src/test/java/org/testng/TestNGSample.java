@@ -39,11 +39,7 @@ public class TestNGSample {
 		System.out.println("Test2");
 
 	}
-	@Test(priority=11,enabled=false,invocationCount=2)
-	private void tc3() {
-		System.out.println("Test 3");
-
-	}
+	
 
 	
 
